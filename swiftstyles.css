@@ -175,7 +175,7 @@ label img{
 
 .toggle-menu{
    
-    z-index: 30;
+    
     position: absolute;
     /*display: none;*/
     display: inline-block;
